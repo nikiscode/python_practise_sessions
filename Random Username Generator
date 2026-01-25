@@ -1,8 +1,6 @@
 import random
-
 names = ["nikitha", "rahul", "ananya", "arjun"]
 numbers = random.randint(100, 999)
-
 username = random.choice(names) + str(numbers)
 print("Generated Username:", username)
 
