@@ -1,4 +1,4 @@
-//Dice Rolling Simulator
+ //Dice Rolling Simulator
 import random
 while True:
     input("Press Enter to roll the dice...")
