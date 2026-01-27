@@ -1,4 +1,4 @@
-//countdown _timer
+ //countdown _timer
 import time
 seconds = int(input("Enter seconds: "))
 while seconds > 0:
