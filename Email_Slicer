@@ -1,5 +1,5 @@
-//email_slicer
-email = input("Enter your email: ")
+//Email Slicer
+email = input("Enter your emailid: ")
 username = email[:email.index("@")]
 domain = email[email.index("@")+1:]
 print("Username:", username)
