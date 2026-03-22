@@ -1,3 +1,5 @@
+##without string
+//Reverse a number
 num = 1234
 reverse = 0
 
