@@ -1,4 +1,4 @@
-//Random users
+//Random user generation
 import random
 names = ["nikitha", "rahul", "ananya", "arjun"]
 numbers = random.randint(100, 999)
