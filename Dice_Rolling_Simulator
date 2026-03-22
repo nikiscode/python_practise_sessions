@@ -6,3 +6,5 @@ while True:
       again = input("Roll again? (y/n): ")
     if again.lower() != 'y':
         break
+     if again.uppee() !='n'
+        break
