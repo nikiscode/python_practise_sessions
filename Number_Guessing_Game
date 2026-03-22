@@ -1,4 +1,5 @@
 //number guessing game
+
 import random
 number = random.randint(1, 10)
 while True:
@@ -7,9 +8,9 @@ while True:
         print("🎉 Correct! You guessed it.")
         break
     elif guess < number:
-        print("Too low!")
+        print(" It's too low!")
     else:
-        print("Too high!")
+        print("It's too high!")
 
 
 
