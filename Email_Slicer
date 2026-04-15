@@ -1,3 +1,4 @@
+
 //Email Slicer
 email = input("Enter your emailid: ")
 username = email[:email.index("@")]
